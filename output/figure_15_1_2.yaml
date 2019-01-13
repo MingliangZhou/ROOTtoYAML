@@ -1,0 +1,96 @@
+dependent_variables:
+- header:
+    name: $a_1$
+  values:
+  - errors:
+    - asymerror:
+        minus: -0.00073986
+        plus: 0.00073986
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0034239
+        plus: 0.0039832
+      label: syst. uncertainty
+    value: 0.037243
+  - errors:
+    - asymerror:
+        minus: -0.0002776
+        plus: 0.0002776
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0040863
+        plus: 0.0045879
+      label: syst. uncertainty
+    value: 0.032418
+  - errors:
+    - asymerror:
+        minus: -0.00010632
+        plus: 0.00010632
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0027478
+        plus: 0.0028489
+      label: syst. uncertainty
+    value: 0.037271
+  - errors:
+    - asymerror:
+        minus: -8.2509e-05
+        plus: 8.2509e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.002858
+        plus: 0.0033853
+      label: syst. uncertainty
+    value: 0.039349
+  - errors:
+    - asymerror:
+        minus: -4.2137e-05
+        plus: 4.2137e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0023678
+        plus: 0.0025247
+      label: syst. uncertainty
+    value: 0.044903
+  - errors:
+    - asymerror:
+        minus: -5.0375e-05
+        plus: 5.0375e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0029085
+        plus: 0.0035771
+      label: syst. uncertainty
+    value: 0.051166
+  - errors:
+    - asymerror:
+        minus: -3.8391e-05
+        plus: 3.8391e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0034869
+        plus: 0.003328
+      label: syst. uncertainty
+    value: 0.069255
+  - errors:
+    - asymerror:
+        minus: -4.8234e-05
+        plus: 4.8234e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0052047
+        plus: 0.0036274
+      label: syst. uncertainty
+    value: 0.093711
+independent_variables:
+- header:
+    name: $N_{ch}$
+  values:
+  - value: 181.6
+  - value: 157.13
+  - value: 132.81
+  - value: 108.48
+  - value: 83.829
+  - value: 61.983
+  - value: 34.705
+  - value: 17.61

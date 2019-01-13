@@ -1,0 +1,129 @@
+dependent_variables:
+- header:
+    name: $a_n a_m$
+  values:
+  - errors:
+    - asymerror:
+        minus: -7.7149e-06
+        plus: 7.7149e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00030275
+        plus: 7.8611e-05
+      label: syst. uncertainty
+    value: 0.0025166
+  - errors:
+    - asymerror:
+        minus: -7.5819e-06
+        plus: 7.5819e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00017964
+        plus: 6.2245e-05
+      label: syst. uncertainty
+    value: 0.00066073
+  - errors:
+    - asymerror:
+        minus: -7.3559e-06
+        plus: 7.3559e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00011593
+        plus: 6.2091e-05
+      label: syst. uncertainty
+    value: 0.00040631
+  - errors:
+    - asymerror:
+        minus: -7.1947e-06
+        plus: 7.1947e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -7.8688e-05
+        plus: 6.1691e-05
+      label: syst. uncertainty
+    value: 0.00031221
+  - errors:
+    - asymerror:
+        minus: -6.8472e-06
+        plus: 6.8472e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -6.7783e-05
+        plus: 5.727e-05
+      label: syst. uncertainty
+    value: 0.0002514
+  - errors:
+    - asymerror:
+        minus: -6.4129e-06
+        plus: 6.4129e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -6.3065e-05
+        plus: 5.8882e-05
+      label: syst. uncertainty
+    value: 0.00019288
+  - errors:
+    - asymerror:
+        minus: -7.385e-06
+        plus: 7.385e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -6.0571e-05
+        plus: 8.7827e-05
+      label: syst. uncertainty
+    value: -0.00016431
+  - errors:
+    - asymerror:
+        minus: -7.0963e-06
+        plus: 7.0963e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -5.822e-05
+        plus: 8.241e-05
+      label: syst. uncertainty
+    value: -0.00014024
+  - errors:
+    - asymerror:
+        minus: -6.7919e-06
+        plus: 6.7919e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -5.7287e-05
+        plus: 6.2697e-05
+      label: syst. uncertainty
+    value: -0.00011865
+  - errors:
+    - asymerror:
+        minus: -6.3915e-06
+        plus: 6.3915e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -5.9584e-05
+        plus: 5.9471e-05
+      label: syst. uncertainty
+    value: -9.3662e-05
+  - errors:
+    - asymerror:
+        minus: -6.028e-06
+        plus: 6.028e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -6.0384e-05
+        plus: 5.8224e-05
+      label: syst. uncertainty
+    value: -7.4459e-05
+independent_variables:
+- header:
+    name: $(n,m)$
+  values:
+  - value: 0
+  - value: 1.0
+  - value: 2.0
+  - value: 3.0
+  - value: 4.0
+  - value: 5.0
+  - value: 6.0
+  - value: 7.0
+  - value: 8.0
+  - value: 9.0
+  - value: 10.0

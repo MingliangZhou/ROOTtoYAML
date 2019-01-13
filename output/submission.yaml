@@ -1,0 +1,283 @@
+---
+comment: ''
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+data_file: figure_8_0.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb
+keywords: []
+location: Page 11
+name: Figure_8_0
+---
+data_file: figure_8_1.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb
+keywords: []
+location: Page 11
+name: Figure_8_1
+---
+data_file: figure_8_2.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb
+keywords: []
+location: Page 11
+name: Figure_8_2
+---
+data_file: figure_8_3.yaml
+description: C_N(eta_1, eta_2) for p+Pb
+keywords: []
+location: Page 11
+name: Figure_8_3
+---
+data_file: figure_8_4.yaml
+description: SRC(eta_1, eta_2) for p+Pb
+keywords: []
+location: Page 11
+name: Figure_8_4
+---
+data_file: figure_8_5.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb
+keywords: []
+location: Page 11
+name: Figure_8_5
+---
+data_file: figure_8_6.yaml
+description: C_N(eta_1, eta_2) for pp
+keywords: []
+location: Page 11
+name: Figure_8_6
+---
+data_file: figure_8_7.yaml
+description: SRC(eta_1, eta_2) for pp
+keywords: []
+location: Page 11
+name: Figure_8_7
+---
+data_file: figure_8_8.yaml
+description: C_N^sub(eta_1, eta_2) for pp
+keywords: []
+location: Page 11
+name: Figure_8_8
+---
+data_file: figure_9_0_0.yaml
+description: <a_n a_m> for Pb+Pb, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_0
+---
+data_file: figure_9_0_1.yaml
+description: <a_n a_m> for Pb+Pb, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_1
+---
+data_file: figure_9_0_2.yaml
+description: <a_n a_m> for Pb+Pb, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_2
+---
+data_file: figure_9_1_0.yaml
+description: <a_n a_m> for p+Pb, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0
+---
+data_file: figure_9_1_1.yaml
+description: <a_n a_m> for p+Pb, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1
+---
+data_file: figure_9_1_2.yaml
+description: <a_n a_m> for p+Pb, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2
+---
+data_file: figure_9_2_0.yaml
+description: <a_n a_m> for pp, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_0
+---
+data_file: figure_9_2_1.yaml
+description: <a_n a_m> for pp, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_1
+---
+data_file: figure_9_2_2.yaml
+description: <a_n a_m> for pp, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_2
+---
+data_file: figure_9_3_0.yaml
+description: <a_n a_m> for Pb+Pb, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0
+---
+data_file: figure_9_3_1.yaml
+description: <a_n a_m> for Pb+Pb, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1
+---
+data_file: figure_9_3_2.yaml
+description: <a_n a_m> for Pb+Pb, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2
+---
+data_file: figure_9_4_0.yaml
+description: <a_n a_m> for p+Pb, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0
+---
+data_file: figure_9_4_1.yaml
+description: <a_n a_m> for p+Pb, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1
+---
+data_file: figure_9_4_2.yaml
+description: <a_n a_m> for p+Pb, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2
+---
+data_file: figure_9_5_0.yaml
+description: <a_n a_m> for pp, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_0
+---
+data_file: figure_9_5_1.yaml
+description: <a_n a_m> for pp, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_1
+---
+data_file: figure_9_5_2.yaml
+description: <a_n a_m> for pp, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_2
+---
+data_file: figure_14_0_0.yaml
+description: SRC for Pb+Pb, all pairs
+keywords: []
+location: Page 15
+name: Figure_14_0_0
+---
+data_file: figure_14_0_1.yaml
+description: SRC for Pb+Pb, opposite pairs
+keywords: []
+location: Page 15
+name: Figure_14_0_1
+---
+data_file: figure_14_0_2.yaml
+description: SRC for Pb+Pb, same pairs
+keywords: []
+location: Page 15
+name: Figure_14_0_2
+---
+data_file: figure_14_1_0.yaml
+description: SRC for p+Pb, all pairs
+keywords: []
+location: Page 15
+name: Figure_14_1_0
+---
+data_file: figure_14_1_1.yaml
+description: SRC for p+Pb, opposite pairs
+keywords: []
+location: Page 15
+name: Figure_14_1_1
+---
+data_file: figure_14_1_2.yaml
+description: SRC for p+Pb, same pairs
+keywords: []
+location: Page 15
+name: Figure_14_1_2
+---
+data_file: figure_14_2_0.yaml
+description: SRC for pp, all pairs
+keywords: []
+location: Page 15
+name: Figure_14_2_0
+---
+data_file: figure_14_2_1.yaml
+description: SRC for pp, opposite pairs
+keywords: []
+location: Page 15
+name: Figure_14_2_1
+---
+data_file: figure_14_2_2.yaml
+description: SRC for pp, same pairs
+keywords: []
+location: Page 15
+name: Figure_14_2_2
+---
+data_file: figure_15_0_0.yaml
+description: SRC for Pb+Pb
+keywords: []
+location: Page 15
+name: Figure_15_0_0
+---
+data_file: figure_15_0_1.yaml
+description: SRC for p+Pb
+keywords: []
+location: Page 15
+name: Figure_15_0_1
+---
+data_file: figure_15_0_2.yaml
+description: SRC for pp
+keywords: []
+location: Page 15
+name: Figure_15_0_2
+---
+data_file: figure_15_1_0.yaml
+description: a1 for Pb+Pb
+keywords: []
+location: Page 15
+name: Figure_15_1_0
+---
+data_file: figure_15_1_1.yaml
+description: a1 for p+Pb
+keywords: []
+location: Page 15
+name: Figure_15_1_1
+---
+data_file: figure_15_1_2.yaml
+description: a1 for pp
+keywords: []
+location: Page 15
+name: Figure_15_1_2
+---
+data_file: figure_16_0.yaml
+description: f(eta+) for p+Pb
+keywords: []
+location: Page 16
+name: Figure_16_0
+---
+data_file: figure_16_1.yaml
+description: f(eta+) for symmetrized p+Pb
+keywords: []
+location: Page 16
+name: Figure_16_1
+---
+data_file: figure_16_2.yaml
+description: f(eta+) for pp
+keywords: []
+location: Page 16
+name: Figure_16_2
+---
+data_file: figure_16_3.yaml
+description: f(eta+) for Pb+Pb
+keywords: []
+location: Page 16
+name: Figure_16_3

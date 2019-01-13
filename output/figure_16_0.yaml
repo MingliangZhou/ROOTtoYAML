@@ -1,0 +1,123 @@
+dependent_variables:
+- header:
+    name: $f(\eta_+)$
+  values:
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0086741
+    value: 0.91857
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0091657
+    value: 0.90185
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0072791
+    value: 0.90989
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0091477
+    value: 0.90472
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.007836
+    value: 0.93276
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0089037
+    value: 0.92342
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0077038
+    value: 0.92889
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0088012
+    value: 0.94449
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0076879
+    value: 0.9554
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0088878
+    value: 0.96866
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0078069
+    value: 0.986
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0090886
+    value: 1.0
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0080208
+    value: 1.014
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0093789
+    value: 1.0317
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0083439
+    value: 1.0335
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.009819
+    value: 1.0533
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0088476
+    value: 1.0765
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.010522
+    value: 1.0879
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0095518
+    value: 1.1119
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.011489
+    value: 1.1465
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.0094305
+    value: 1.1823
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.012258
+    value: 1.1974
+  - errors:
+    - label: stat. uncertainty
+      symerror: 0.012005
+    value: 1.2619
+independent_variables:
+- header:
+    name: $\eta_+$
+  values:
+  - value: -4.4
+  - value: -4.0
+  - value: -3.6
+  - value: -3.2
+  - value: -2.8
+  - value: -2.4
+  - value: -2.0
+  - value: -1.6
+  - value: -1.2
+  - value: -0.8
+  - value: -0.4
+  - value: -4.4409e-16
+  - value: 0.4
+  - value: 0.8
+  - value: 1.2
+  - value: 1.6
+  - value: 2.0
+  - value: 2.4
+  - value: 2.8
+  - value: 3.2
+  - value: 3.6
+  - value: 4.0
+  - value: 4.4

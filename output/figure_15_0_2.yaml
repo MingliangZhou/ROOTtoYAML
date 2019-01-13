@@ -1,0 +1,96 @@
+dependent_variables:
+- header:
+    name: $\Delta SRC$
+  values:
+  - errors:
+    - asymerror:
+        minus: -9.4464e-05
+        plus: 9.4464e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00055166
+        plus: 0.00045024
+      label: syst. uncertainty
+    value: 0.0088649
+  - errors:
+    - asymerror:
+        minus: -3.0553e-05
+        plus: 3.0553e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0004011
+        plus: 0.00045978
+      label: syst. uncertainty
+    value: 0.0093375
+  - errors:
+    - asymerror:
+        minus: -1.3528e-05
+        plus: 1.3528e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00037732
+        plus: 0.00047162
+      label: syst. uncertainty
+    value: 0.010133
+  - errors:
+    - asymerror:
+        minus: -1.1154e-05
+        plus: 1.1154e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00042071
+        plus: 0.00031223
+      label: syst. uncertainty
+    value: 0.011422
+  - errors:
+    - asymerror:
+        minus: -6.539e-06
+        plus: 6.539e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00012061
+        plus: 0.00030997
+      label: syst. uncertainty
+    value: 0.013521
+  - errors:
+    - asymerror:
+        minus: -8.9536e-06
+        plus: 8.9536e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.0004878
+        plus: 0.00044061
+      label: syst. uncertainty
+    value: 0.017209
+  - errors:
+    - asymerror:
+        minus: -9.2733e-06
+        plus: 9.2733e-06
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00036233
+        plus: 0.00061351
+      label: syst. uncertainty
+    value: 0.026722
+  - errors:
+    - asymerror:
+        minus: -1.5755e-05
+        plus: 1.5755e-05
+      label: stat. uncertainty
+    - asymerror:
+        minus: -0.00038853
+        plus: 0.00078946
+      label: syst. uncertainty
+    value: 0.042973
+independent_variables:
+- header:
+    name: $N_{ch}$
+  values:
+  - value: 181.6
+  - value: 157.13
+  - value: 132.81
+  - value: 108.48
+  - value: 83.829
+  - value: 61.983
+  - value: 34.705
+  - value: 17.61
