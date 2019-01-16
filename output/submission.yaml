@@ -6,257 +6,4217 @@ data_license:
   name: cc-by-4.0
   url: https://creativecommons.org/licenses/by/4.0/
 ---
-data_file: figure_8_0.yaml
-description: C_N(eta_1, eta_2) for Pb+Pb
+data_file: figure_8_0_0_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (260<=Nch<300)
 keywords: []
 location: Page 11
-name: Figure_8_0
+name: Figure_8_0_0_lowPt
 ---
-data_file: figure_8_1.yaml
-description: SRC(eta_1, eta_2) for Pb+Pb
+data_file: figure_8_0_1_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (240<=Nch<260)
 keywords: []
 location: Page 11
-name: Figure_8_1
+name: Figure_8_0_1_lowPt
 ---
-data_file: figure_8_2.yaml
-description: C_N^sub(eta_1, eta_2) for Pb+Pb
+data_file: figure_8_0_2_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (220<=Nch<240)
 keywords: []
 location: Page 11
-name: Figure_8_2
+name: Figure_8_0_2_lowPt
 ---
-data_file: figure_8_3.yaml
-description: C_N(eta_1, eta_2) for p+Pb
+data_file: figure_8_0_3_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (200<=Nch<220)
 keywords: []
 location: Page 11
-name: Figure_8_3
+name: Figure_8_0_3_lowPt
 ---
-data_file: figure_8_4.yaml
-description: SRC(eta_1, eta_2) for p+Pb
+data_file: figure_8_0_4_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (180<=Nch<200)
 keywords: []
 location: Page 11
-name: Figure_8_4
+name: Figure_8_0_4_lowPt
 ---
-data_file: figure_8_5.yaml
-description: C_N^sub(eta_1, eta_2) for p+Pb
+data_file: figure_8_0_5_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (160<=Nch<180)
 keywords: []
 location: Page 11
-name: Figure_8_5
+name: Figure_8_0_5_lowPt
 ---
-data_file: figure_8_6.yaml
-description: C_N(eta_1, eta_2) for pp
+data_file: figure_8_0_6_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (140<=Nch<160)
 keywords: []
 location: Page 11
-name: Figure_8_6
+name: Figure_8_0_6_lowPt
 ---
-data_file: figure_8_7.yaml
-description: SRC(eta_1, eta_2) for pp
+data_file: figure_8_0_7_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (120<=Nch<140)
 keywords: []
 location: Page 11
-name: Figure_8_7
+name: Figure_8_0_7_lowPt
 ---
-data_file: figure_8_8.yaml
-description: C_N^sub(eta_1, eta_2) for pp
+data_file: figure_8_0_8_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (100<=Nch<120)
 keywords: []
 location: Page 11
-name: Figure_8_8
+name: Figure_8_0_8_lowPt
 ---
-data_file: figure_9_0_0.yaml
-description: <a_n a_m> for Pb+Pb, w SRC, opposite pairs
+data_file: figure_8_0_9_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_0_9_lowPt
+---
+data_file: figure_8_0_10_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_0_10_lowPt
+---
+data_file: figure_8_0_11_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_0_11_lowPt
+---
+data_file: figure_8_0_12_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_0_12_lowPt
+---
+data_file: figure_8_0_13_lowpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_0_13_lowPt
+---
+data_file: figure_8_1_0_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_1_0_lowPt
+---
+data_file: figure_8_1_1_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_1_1_lowPt
+---
+data_file: figure_8_1_2_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_1_2_lowPt
+---
+data_file: figure_8_1_3_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_1_3_lowPt
+---
+data_file: figure_8_1_4_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_1_4_lowPt
+---
+data_file: figure_8_1_5_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_1_5_lowPt
+---
+data_file: figure_8_1_6_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_1_6_lowPt
+---
+data_file: figure_8_1_7_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_1_7_lowPt
+---
+data_file: figure_8_1_8_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_1_8_lowPt
+---
+data_file: figure_8_1_9_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_1_9_lowPt
+---
+data_file: figure_8_1_10_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_1_10_lowPt
+---
+data_file: figure_8_1_11_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_1_11_lowPt
+---
+data_file: figure_8_1_12_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_1_12_lowPt
+---
+data_file: figure_8_1_13_lowpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_1_13_lowPt
+---
+data_file: figure_8_2_0_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_2_0_lowPt
+---
+data_file: figure_8_2_1_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_2_1_lowPt
+---
+data_file: figure_8_2_2_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_2_2_lowPt
+---
+data_file: figure_8_2_3_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_2_3_lowPt
+---
+data_file: figure_8_2_4_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_2_4_lowPt
+---
+data_file: figure_8_2_5_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_2_5_lowPt
+---
+data_file: figure_8_2_6_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_2_6_lowPt
+---
+data_file: figure_8_2_7_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_2_7_lowPt
+---
+data_file: figure_8_2_8_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_2_8_lowPt
+---
+data_file: figure_8_2_9_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_2_9_lowPt
+---
+data_file: figure_8_2_10_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_2_10_lowPt
+---
+data_file: figure_8_2_11_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_2_11_lowPt
+---
+data_file: figure_8_2_12_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_2_12_lowPt
+---
+data_file: figure_8_2_13_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_2_13_lowPt
+---
+data_file: figure_8_3_0_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_3_0_lowPt
+---
+data_file: figure_8_3_1_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_3_1_lowPt
+---
+data_file: figure_8_3_2_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_3_2_lowPt
+---
+data_file: figure_8_3_3_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_3_3_lowPt
+---
+data_file: figure_8_3_4_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_3_4_lowPt
+---
+data_file: figure_8_3_5_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_3_5_lowPt
+---
+data_file: figure_8_3_6_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_3_6_lowPt
+---
+data_file: figure_8_3_7_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_3_7_lowPt
+---
+data_file: figure_8_3_8_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_3_8_lowPt
+---
+data_file: figure_8_3_9_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_3_9_lowPt
+---
+data_file: figure_8_3_10_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_3_10_lowPt
+---
+data_file: figure_8_3_11_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_3_11_lowPt
+---
+data_file: figure_8_3_12_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_3_12_lowPt
+---
+data_file: figure_8_3_13_lowpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_3_13_lowPt
+---
+data_file: figure_8_4_0_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_4_0_lowPt
+---
+data_file: figure_8_4_1_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_4_1_lowPt
+---
+data_file: figure_8_4_2_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_4_2_lowPt
+---
+data_file: figure_8_4_3_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_4_3_lowPt
+---
+data_file: figure_8_4_4_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_4_4_lowPt
+---
+data_file: figure_8_4_5_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_4_5_lowPt
+---
+data_file: figure_8_4_6_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_4_6_lowPt
+---
+data_file: figure_8_4_7_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_4_7_lowPt
+---
+data_file: figure_8_4_8_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_4_8_lowPt
+---
+data_file: figure_8_4_9_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_4_9_lowPt
+---
+data_file: figure_8_4_10_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_4_10_lowPt
+---
+data_file: figure_8_4_11_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_4_11_lowPt
+---
+data_file: figure_8_4_12_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_4_12_lowPt
+---
+data_file: figure_8_4_13_lowpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_4_13_lowPt
+---
+data_file: figure_8_5_0_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_5_0_lowPt
+---
+data_file: figure_8_5_1_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_5_1_lowPt
+---
+data_file: figure_8_5_2_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_5_2_lowPt
+---
+data_file: figure_8_5_3_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_5_3_lowPt
+---
+data_file: figure_8_5_4_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_5_4_lowPt
+---
+data_file: figure_8_5_5_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_5_5_lowPt
+---
+data_file: figure_8_5_6_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_5_6_lowPt
+---
+data_file: figure_8_5_7_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_5_7_lowPt
+---
+data_file: figure_8_5_8_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_5_8_lowPt
+---
+data_file: figure_8_5_9_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_5_9_lowPt
+---
+data_file: figure_8_5_10_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_5_10_lowPt
+---
+data_file: figure_8_5_11_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_5_11_lowPt
+---
+data_file: figure_8_5_12_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_5_12_lowPt
+---
+data_file: figure_8_5_13_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_5_13_lowPt
+---
+data_file: figure_8_6_0_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_6_0_lowPt
+---
+data_file: figure_8_6_1_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_6_1_lowPt
+---
+data_file: figure_8_6_2_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_6_2_lowPt
+---
+data_file: figure_8_6_3_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_6_3_lowPt
+---
+data_file: figure_8_6_4_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_6_4_lowPt
+---
+data_file: figure_8_6_5_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_6_5_lowPt
+---
+data_file: figure_8_6_6_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_6_6_lowPt
+---
+data_file: figure_8_6_7_lowpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_6_7_lowPt
+---
+data_file: figure_8_7_0_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_7_0_lowPt
+---
+data_file: figure_8_7_1_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_7_1_lowPt
+---
+data_file: figure_8_7_2_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_7_2_lowPt
+---
+data_file: figure_8_7_3_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_7_3_lowPt
+---
+data_file: figure_8_7_4_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_7_4_lowPt
+---
+data_file: figure_8_7_5_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_7_5_lowPt
+---
+data_file: figure_8_7_6_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_7_6_lowPt
+---
+data_file: figure_8_7_7_lowpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_7_7_lowPt
+---
+data_file: figure_8_8_0_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_8_0_lowPt
+---
+data_file: figure_8_8_1_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_8_1_lowPt
+---
+data_file: figure_8_8_2_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_8_2_lowPt
+---
+data_file: figure_8_8_3_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_8_3_lowPt
+---
+data_file: figure_8_8_4_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_8_4_lowPt
+---
+data_file: figure_8_8_5_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_8_5_lowPt
+---
+data_file: figure_8_8_6_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_8_6_lowPt
+---
+data_file: figure_8_8_7_lowpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.2GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_8_7_lowPt
+---
+data_file: figure_8_0_0_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_0_0_highPt
+---
+data_file: figure_8_0_1_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_0_1_highPt
+---
+data_file: figure_8_0_2_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_0_2_highPt
+---
+data_file: figure_8_0_3_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_0_3_highPt
+---
+data_file: figure_8_0_4_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_0_4_highPt
+---
+data_file: figure_8_0_5_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_0_5_highPt
+---
+data_file: figure_8_0_6_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_0_6_highPt
+---
+data_file: figure_8_0_7_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_0_7_highPt
+---
+data_file: figure_8_0_8_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_0_8_highPt
+---
+data_file: figure_8_0_9_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_0_9_highPt
+---
+data_file: figure_8_0_10_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_0_10_highPt
+---
+data_file: figure_8_0_11_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_0_11_highPt
+---
+data_file: figure_8_0_12_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_0_12_highPt
+---
+data_file: figure_8_0_13_highpt.yaml
+description: C_N(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_0_13_highPt
+---
+data_file: figure_8_1_0_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_1_0_highPt
+---
+data_file: figure_8_1_1_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_1_1_highPt
+---
+data_file: figure_8_1_2_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_1_2_highPt
+---
+data_file: figure_8_1_3_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_1_3_highPt
+---
+data_file: figure_8_1_4_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_1_4_highPt
+---
+data_file: figure_8_1_5_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_1_5_highPt
+---
+data_file: figure_8_1_6_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_1_6_highPt
+---
+data_file: figure_8_1_7_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_1_7_highPt
+---
+data_file: figure_8_1_8_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_1_8_highPt
+---
+data_file: figure_8_1_9_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_1_9_highPt
+---
+data_file: figure_8_1_10_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_1_10_highPt
+---
+data_file: figure_8_1_11_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_1_11_highPt
+---
+data_file: figure_8_1_12_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_1_12_highPt
+---
+data_file: figure_8_1_13_highpt.yaml
+description: SRC(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_1_13_highPt
+---
+data_file: figure_8_2_0_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_2_0_highPt
+---
+data_file: figure_8_2_1_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_2_1_highPt
+---
+data_file: figure_8_2_2_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_2_2_highPt
+---
+data_file: figure_8_2_3_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_2_3_highPt
+---
+data_file: figure_8_2_4_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_2_4_highPt
+---
+data_file: figure_8_2_5_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_2_5_highPt
+---
+data_file: figure_8_2_6_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_2_6_highPt
+---
+data_file: figure_8_2_7_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_2_7_highPt
+---
+data_file: figure_8_2_8_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_2_8_highPt
+---
+data_file: figure_8_2_9_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_2_9_highPt
+---
+data_file: figure_8_2_10_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_2_10_highPt
+---
+data_file: figure_8_2_11_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_2_11_highPt
+---
+data_file: figure_8_2_12_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_2_12_highPt
+---
+data_file: figure_8_2_13_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for Pb+Pb, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_2_13_highPt
+---
+data_file: figure_8_3_0_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_3_0_highPt
+---
+data_file: figure_8_3_1_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_3_1_highPt
+---
+data_file: figure_8_3_2_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_3_2_highPt
+---
+data_file: figure_8_3_3_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_3_3_highPt
+---
+data_file: figure_8_3_4_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_3_4_highPt
+---
+data_file: figure_8_3_5_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_3_5_highPt
+---
+data_file: figure_8_3_6_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_3_6_highPt
+---
+data_file: figure_8_3_7_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_3_7_highPt
+---
+data_file: figure_8_3_8_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_3_8_highPt
+---
+data_file: figure_8_3_9_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_3_9_highPt
+---
+data_file: figure_8_3_10_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_3_10_highPt
+---
+data_file: figure_8_3_11_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_3_11_highPt
+---
+data_file: figure_8_3_12_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_3_12_highPt
+---
+data_file: figure_8_3_13_highpt.yaml
+description: C_N(eta_1, eta_2) for p+Pb, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_3_13_highPt
+---
+data_file: figure_8_4_0_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_4_0_highPt
+---
+data_file: figure_8_4_1_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_4_1_highPt
+---
+data_file: figure_8_4_2_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_4_2_highPt
+---
+data_file: figure_8_4_3_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_4_3_highPt
+---
+data_file: figure_8_4_4_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_4_4_highPt
+---
+data_file: figure_8_4_5_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_4_5_highPt
+---
+data_file: figure_8_4_6_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_4_6_highPt
+---
+data_file: figure_8_4_7_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_4_7_highPt
+---
+data_file: figure_8_4_8_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_4_8_highPt
+---
+data_file: figure_8_4_9_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_4_9_highPt
+---
+data_file: figure_8_4_10_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_4_10_highPt
+---
+data_file: figure_8_4_11_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_4_11_highPt
+---
+data_file: figure_8_4_12_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_4_12_highPt
+---
+data_file: figure_8_4_13_highpt.yaml
+description: SRC(eta_1, eta_2) for p+Pb, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_4_13_highPt
+---
+data_file: figure_8_5_0_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (260<=Nch<300)
+keywords: []
+location: Page 11
+name: Figure_8_5_0_highPt
+---
+data_file: figure_8_5_1_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (240<=Nch<260)
+keywords: []
+location: Page 11
+name: Figure_8_5_1_highPt
+---
+data_file: figure_8_5_2_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (220<=Nch<240)
+keywords: []
+location: Page 11
+name: Figure_8_5_2_highPt
+---
+data_file: figure_8_5_3_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (200<=Nch<220)
+keywords: []
+location: Page 11
+name: Figure_8_5_3_highPt
+---
+data_file: figure_8_5_4_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (180<=Nch<200)
+keywords: []
+location: Page 11
+name: Figure_8_5_4_highPt
+---
+data_file: figure_8_5_5_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (160<=Nch<180)
+keywords: []
+location: Page 11
+name: Figure_8_5_5_highPt
+---
+data_file: figure_8_5_6_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_5_6_highPt
+---
+data_file: figure_8_5_7_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_5_7_highPt
+---
+data_file: figure_8_5_8_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_5_8_highPt
+---
+data_file: figure_8_5_9_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_5_9_highPt
+---
+data_file: figure_8_5_10_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_5_10_highPt
+---
+data_file: figure_8_5_11_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_5_11_highPt
+---
+data_file: figure_8_5_12_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_5_12_highPt
+---
+data_file: figure_8_5_13_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for p+Pb, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_5_13_highPt
+---
+data_file: figure_8_6_0_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_6_0_highPt
+---
+data_file: figure_8_6_1_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_6_1_highPt
+---
+data_file: figure_8_6_2_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_6_2_highPt
+---
+data_file: figure_8_6_3_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_6_3_highPt
+---
+data_file: figure_8_6_4_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_6_4_highPt
+---
+data_file: figure_8_6_5_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_6_5_highPt
+---
+data_file: figure_8_6_6_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_6_6_highPt
+---
+data_file: figure_8_6_7_highpt.yaml
+description: C_N(eta_1, eta_2) for pp, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_6_7_highPt
+---
+data_file: figure_8_7_0_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_7_0_highPt
+---
+data_file: figure_8_7_1_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_7_1_highPt
+---
+data_file: figure_8_7_2_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_7_2_highPt
+---
+data_file: figure_8_7_3_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_7_3_highPt
+---
+data_file: figure_8_7_4_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_7_4_highPt
+---
+data_file: figure_8_7_5_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_7_5_highPt
+---
+data_file: figure_8_7_6_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_7_6_highPt
+---
+data_file: figure_8_7_7_highpt.yaml
+description: SRC(eta_1, eta_2) for pp, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_7_7_highPt
+---
+data_file: figure_8_8_0_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (140<=Nch<160)
+keywords: []
+location: Page 11
+name: Figure_8_8_0_highPt
+---
+data_file: figure_8_8_1_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (120<=Nch<140)
+keywords: []
+location: Page 11
+name: Figure_8_8_1_highPt
+---
+data_file: figure_8_8_2_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (100<=Nch<120)
+keywords: []
+location: Page 11
+name: Figure_8_8_2_highPt
+---
+data_file: figure_8_8_3_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (80<=Nch<100)
+keywords: []
+location: Page 11
+name: Figure_8_8_3_highPt
+---
+data_file: figure_8_8_4_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (60<=Nch<80)
+keywords: []
+location: Page 11
+name: Figure_8_8_4_highPt
+---
+data_file: figure_8_8_5_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (40<=Nch<60)
+keywords: []
+location: Page 11
+name: Figure_8_8_5_highPt
+---
+data_file: figure_8_8_6_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (20<=Nch<40)
+keywords: []
+location: Page 11
+name: Figure_8_8_6_highPt
+---
+data_file: figure_8_8_7_highpt.yaml
+description: C_N^sub(eta_1, eta_2) for pp, pT>0.5GeV, (10<=Nch<20)
+keywords: []
+location: Page 11
+name: Figure_8_8_7_highPt
+---
+data_file: figure_9_0_0_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 260<=Nch<300, w SRC, opposite pairs
 keywords: []
 location: Page 12
-name: Figure_9_0_0
+name: Figure_9_0_0_0_lowPt
 ---
-data_file: figure_9_0_1.yaml
-description: <a_n a_m> for Pb+Pb, w SRC, same pairs
+data_file: figure_9_0_0_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 260<=Nch<300, w SRC, same pairs
 keywords: []
 location: Page 12
-name: Figure_9_0_1
+name: Figure_9_0_0_1_lowPt
 ---
-data_file: figure_9_0_2.yaml
-description: <a_n a_m> for Pb+Pb, w SRC, all pairs
+data_file: figure_9_0_0_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 260<=Nch<300, w SRC, all pairs
 keywords: []
 location: Page 12
-name: Figure_9_0_2
+name: Figure_9_0_0_2_lowPt
 ---
-data_file: figure_9_1_0.yaml
-description: <a_n a_m> for p+Pb, w SRC, opposite pairs
+data_file: figure_9_0_1_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 240<=Nch<260, w SRC, opposite pairs
 keywords: []
 location: Page 12
-name: Figure_9_1_0
+name: Figure_9_0_1_0_lowPt
 ---
-data_file: figure_9_1_1.yaml
-description: <a_n a_m> for p+Pb, w SRC, same pairs
+data_file: figure_9_0_1_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 240<=Nch<260, w SRC, same pairs
 keywords: []
 location: Page 12
-name: Figure_9_1_1
+name: Figure_9_0_1_1_lowPt
 ---
-data_file: figure_9_1_2.yaml
-description: <a_n a_m> for p+Pb, w SRC, all pairs
+data_file: figure_9_0_1_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 240<=Nch<260, w SRC, all pairs
 keywords: []
 location: Page 12
-name: Figure_9_1_2
+name: Figure_9_0_1_2_lowPt
 ---
-data_file: figure_9_2_0.yaml
-description: <a_n a_m> for pp, w SRC, opposite pairs
+data_file: figure_9_0_2_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 220<=Nch<240, w SRC, opposite pairs
 keywords: []
 location: Page 12
-name: Figure_9_2_0
+name: Figure_9_0_2_0_lowPt
 ---
-data_file: figure_9_2_1.yaml
-description: <a_n a_m> for pp, w SRC, same pairs
+data_file: figure_9_0_2_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 220<=Nch<240, w SRC, same pairs
 keywords: []
 location: Page 12
-name: Figure_9_2_1
+name: Figure_9_0_2_1_lowPt
 ---
-data_file: figure_9_2_2.yaml
-description: <a_n a_m> for pp, w SRC, all pairs
+data_file: figure_9_0_2_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 220<=Nch<240, w SRC, all pairs
 keywords: []
 location: Page 12
-name: Figure_9_2_2
+name: Figure_9_0_2_2_lowPt
 ---
-data_file: figure_9_3_0.yaml
-description: <a_n a_m> for Pb+Pb, wo SRC, opposite pairs
+data_file: figure_9_0_3_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 200<=Nch<220, w SRC, opposite pairs
 keywords: []
 location: Page 12
-name: Figure_9_3_0
+name: Figure_9_0_3_0_lowPt
 ---
-data_file: figure_9_3_1.yaml
-description: <a_n a_m> for Pb+Pb, wo SRC, same pairs
+data_file: figure_9_0_3_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 200<=Nch<220, w SRC, same pairs
 keywords: []
 location: Page 12
-name: Figure_9_3_1
+name: Figure_9_0_3_1_lowPt
 ---
-data_file: figure_9_3_2.yaml
-description: <a_n a_m> for Pb+Pb, wo SRC, all pairs
+data_file: figure_9_0_3_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 200<=Nch<220, w SRC, all pairs
 keywords: []
 location: Page 12
-name: Figure_9_3_2
+name: Figure_9_0_3_2_lowPt
 ---
-data_file: figure_9_4_0.yaml
-description: <a_n a_m> for p+Pb, wo SRC, opposite pairs
+data_file: figure_9_0_4_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 180<=Nch<200, w SRC, opposite pairs
 keywords: []
 location: Page 12
-name: Figure_9_4_0
+name: Figure_9_0_4_0_lowPt
 ---
-data_file: figure_9_4_1.yaml
-description: <a_n a_m> for p+Pb, wo SRC, same pairs
+data_file: figure_9_0_4_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 180<=Nch<200, w SRC, same pairs
 keywords: []
 location: Page 12
-name: Figure_9_4_1
+name: Figure_9_0_4_1_lowPt
 ---
-data_file: figure_9_4_2.yaml
-description: <a_n a_m> for p+Pb, wo SRC, all pairs
+data_file: figure_9_0_4_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 180<=Nch<200, w SRC, all pairs
 keywords: []
 location: Page 12
-name: Figure_9_4_2
+name: Figure_9_0_4_2_lowPt
 ---
-data_file: figure_9_5_0.yaml
-description: <a_n a_m> for pp, wo SRC, opposite pairs
+data_file: figure_9_0_5_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 160<=Nch<180, w SRC, opposite pairs
 keywords: []
 location: Page 12
-name: Figure_9_5_0
+name: Figure_9_0_5_0_lowPt
 ---
-data_file: figure_9_5_1.yaml
-description: <a_n a_m> for pp, wo SRC, same pairs
+data_file: figure_9_0_5_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 160<=Nch<180, w SRC, same pairs
 keywords: []
 location: Page 12
-name: Figure_9_5_1
+name: Figure_9_0_5_1_lowPt
 ---
-data_file: figure_9_5_2.yaml
-description: <a_n a_m> for pp, wo SRC, all pairs
+data_file: figure_9_0_5_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 160<=Nch<180, w SRC, all pairs
 keywords: []
 location: Page 12
-name: Figure_9_5_2
+name: Figure_9_0_5_2_lowPt
 ---
-data_file: figure_14_0_0.yaml
-description: SRC for Pb+Pb, all pairs
+data_file: figure_9_0_6_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 140<=Nch<160, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_6_0_lowPt
+---
+data_file: figure_9_0_6_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 140<=Nch<160, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_6_1_lowPt
+---
+data_file: figure_9_0_6_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 140<=Nch<160, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_6_2_lowPt
+---
+data_file: figure_9_0_7_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 120<=Nch<140, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_7_0_lowPt
+---
+data_file: figure_9_0_7_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 120<=Nch<140, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_7_1_lowPt
+---
+data_file: figure_9_0_7_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 120<=Nch<140, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_7_2_lowPt
+---
+data_file: figure_9_0_8_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 100<=Nch<120, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_8_0_lowPt
+---
+data_file: figure_9_0_8_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 100<=Nch<120, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_8_1_lowPt
+---
+data_file: figure_9_0_8_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 100<=Nch<120, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_8_2_lowPt
+---
+data_file: figure_9_0_9_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 80<=Nch<100, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_9_0_lowPt
+---
+data_file: figure_9_0_9_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 80<=Nch<100, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_9_1_lowPt
+---
+data_file: figure_9_0_9_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 80<=Nch<100, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_9_2_lowPt
+---
+data_file: figure_9_0_10_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 60<=Nch<80, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_10_0_lowPt
+---
+data_file: figure_9_0_10_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 60<=Nch<80, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_10_1_lowPt
+---
+data_file: figure_9_0_10_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 60<=Nch<80, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_10_2_lowPt
+---
+data_file: figure_9_0_11_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 40<=Nch<60, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_11_0_lowPt
+---
+data_file: figure_9_0_11_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 40<=Nch<60, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_11_1_lowPt
+---
+data_file: figure_9_0_11_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 40<=Nch<60, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_11_2_lowPt
+---
+data_file: figure_9_0_12_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 20<=Nch<40, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_12_0_lowPt
+---
+data_file: figure_9_0_12_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 20<=Nch<40, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_12_1_lowPt
+---
+data_file: figure_9_0_12_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 20<=Nch<40, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_12_2_lowPt
+---
+data_file: figure_9_0_13_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 10<=Nch<20, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_13_0_lowPt
+---
+data_file: figure_9_0_13_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 10<=Nch<20, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_13_1_lowPt
+---
+data_file: figure_9_0_13_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 10<=Nch<20, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_13_2_lowPt
+---
+data_file: figure_9_1_0_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 260<=Nch<300, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0_0_lowPt
+---
+data_file: figure_9_1_0_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 260<=Nch<300, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0_1_lowPt
+---
+data_file: figure_9_1_0_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 260<=Nch<300, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0_2_lowPt
+---
+data_file: figure_9_1_1_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 240<=Nch<260, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1_0_lowPt
+---
+data_file: figure_9_1_1_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 240<=Nch<260, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1_1_lowPt
+---
+data_file: figure_9_1_1_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 240<=Nch<260, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1_2_lowPt
+---
+data_file: figure_9_1_2_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 220<=Nch<240, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2_0_lowPt
+---
+data_file: figure_9_1_2_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 220<=Nch<240, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2_1_lowPt
+---
+data_file: figure_9_1_2_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 220<=Nch<240, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2_2_lowPt
+---
+data_file: figure_9_1_3_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 200<=Nch<220, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_3_0_lowPt
+---
+data_file: figure_9_1_3_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 200<=Nch<220, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_3_1_lowPt
+---
+data_file: figure_9_1_3_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 200<=Nch<220, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_3_2_lowPt
+---
+data_file: figure_9_1_4_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 180<=Nch<200, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_4_0_lowPt
+---
+data_file: figure_9_1_4_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 180<=Nch<200, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_4_1_lowPt
+---
+data_file: figure_9_1_4_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 180<=Nch<200, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_4_2_lowPt
+---
+data_file: figure_9_1_5_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 160<=Nch<180, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_5_0_lowPt
+---
+data_file: figure_9_1_5_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 160<=Nch<180, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_5_1_lowPt
+---
+data_file: figure_9_1_5_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 160<=Nch<180, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_5_2_lowPt
+---
+data_file: figure_9_1_6_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 140<=Nch<160, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_6_0_lowPt
+---
+data_file: figure_9_1_6_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 140<=Nch<160, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_6_1_lowPt
+---
+data_file: figure_9_1_6_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 140<=Nch<160, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_6_2_lowPt
+---
+data_file: figure_9_1_7_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 120<=Nch<140, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_7_0_lowPt
+---
+data_file: figure_9_1_7_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 120<=Nch<140, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_7_1_lowPt
+---
+data_file: figure_9_1_7_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 120<=Nch<140, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_7_2_lowPt
+---
+data_file: figure_9_1_8_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 100<=Nch<120, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_8_0_lowPt
+---
+data_file: figure_9_1_8_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 100<=Nch<120, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_8_1_lowPt
+---
+data_file: figure_9_1_8_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 100<=Nch<120, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_8_2_lowPt
+---
+data_file: figure_9_1_9_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 80<=Nch<100, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_9_0_lowPt
+---
+data_file: figure_9_1_9_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 80<=Nch<100, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_9_1_lowPt
+---
+data_file: figure_9_1_9_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 80<=Nch<100, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_9_2_lowPt
+---
+data_file: figure_9_1_10_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 60<=Nch<80, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_10_0_lowPt
+---
+data_file: figure_9_1_10_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 60<=Nch<80, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_10_1_lowPt
+---
+data_file: figure_9_1_10_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 60<=Nch<80, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_10_2_lowPt
+---
+data_file: figure_9_1_11_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 40<=Nch<60, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_11_0_lowPt
+---
+data_file: figure_9_1_11_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 40<=Nch<60, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_11_1_lowPt
+---
+data_file: figure_9_1_11_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 40<=Nch<60, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_11_2_lowPt
+---
+data_file: figure_9_1_12_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 20<=Nch<40, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_12_0_lowPt
+---
+data_file: figure_9_1_12_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 20<=Nch<40, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_12_1_lowPt
+---
+data_file: figure_9_1_12_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 20<=Nch<40, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_12_2_lowPt
+---
+data_file: figure_9_1_13_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 10<=Nch<20, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_13_0_lowPt
+---
+data_file: figure_9_1_13_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 10<=Nch<20, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_13_1_lowPt
+---
+data_file: figure_9_1_13_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 10<=Nch<20, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_13_2_lowPt
+---
+data_file: figure_9_2_6_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 140<=Nch<160, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_6_0_lowPt
+---
+data_file: figure_9_2_6_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 140<=Nch<160, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_6_1_lowPt
+---
+data_file: figure_9_2_6_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 140<=Nch<160, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_6_2_lowPt
+---
+data_file: figure_9_2_7_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 120<=Nch<140, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_7_0_lowPt
+---
+data_file: figure_9_2_7_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 120<=Nch<140, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_7_1_lowPt
+---
+data_file: figure_9_2_7_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 120<=Nch<140, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_7_2_lowPt
+---
+data_file: figure_9_2_8_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 100<=Nch<120, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_8_0_lowPt
+---
+data_file: figure_9_2_8_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 100<=Nch<120, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_8_1_lowPt
+---
+data_file: figure_9_2_8_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 100<=Nch<120, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_8_2_lowPt
+---
+data_file: figure_9_2_9_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 80<=Nch<100, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_9_0_lowPt
+---
+data_file: figure_9_2_9_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 80<=Nch<100, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_9_1_lowPt
+---
+data_file: figure_9_2_9_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 80<=Nch<100, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_9_2_lowPt
+---
+data_file: figure_9_2_10_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 60<=Nch<80, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_10_0_lowPt
+---
+data_file: figure_9_2_10_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 60<=Nch<80, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_10_1_lowPt
+---
+data_file: figure_9_2_10_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 60<=Nch<80, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_10_2_lowPt
+---
+data_file: figure_9_2_11_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 40<=Nch<60, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_11_0_lowPt
+---
+data_file: figure_9_2_11_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 40<=Nch<60, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_11_1_lowPt
+---
+data_file: figure_9_2_11_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 40<=Nch<60, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_11_2_lowPt
+---
+data_file: figure_9_2_12_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 20<=Nch<40, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_12_0_lowPt
+---
+data_file: figure_9_2_12_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 20<=Nch<40, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_12_1_lowPt
+---
+data_file: figure_9_2_12_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 20<=Nch<40, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_12_2_lowPt
+---
+data_file: figure_9_2_13_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 10<=Nch<20, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_13_0_lowPt
+---
+data_file: figure_9_2_13_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 10<=Nch<20, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_13_1_lowPt
+---
+data_file: figure_9_2_13_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 10<=Nch<20, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_13_2_lowPt
+---
+data_file: figure_9_3_0_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 260<=Nch<300, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0_0_lowPt
+---
+data_file: figure_9_3_0_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 260<=Nch<300, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0_1_lowPt
+---
+data_file: figure_9_3_0_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 260<=Nch<300, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0_2_lowPt
+---
+data_file: figure_9_3_1_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 240<=Nch<260, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1_0_lowPt
+---
+data_file: figure_9_3_1_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 240<=Nch<260, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1_1_lowPt
+---
+data_file: figure_9_3_1_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 240<=Nch<260, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1_2_lowPt
+---
+data_file: figure_9_3_2_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 220<=Nch<240, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2_0_lowPt
+---
+data_file: figure_9_3_2_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 220<=Nch<240, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2_1_lowPt
+---
+data_file: figure_9_3_2_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 220<=Nch<240, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2_2_lowPt
+---
+data_file: figure_9_3_3_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 200<=Nch<220, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_3_0_lowPt
+---
+data_file: figure_9_3_3_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 200<=Nch<220, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_3_1_lowPt
+---
+data_file: figure_9_3_3_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 200<=Nch<220, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_3_2_lowPt
+---
+data_file: figure_9_3_4_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 180<=Nch<200, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_4_0_lowPt
+---
+data_file: figure_9_3_4_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 180<=Nch<200, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_4_1_lowPt
+---
+data_file: figure_9_3_4_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 180<=Nch<200, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_4_2_lowPt
+---
+data_file: figure_9_3_5_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 160<=Nch<180, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_5_0_lowPt
+---
+data_file: figure_9_3_5_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 160<=Nch<180, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_5_1_lowPt
+---
+data_file: figure_9_3_5_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 160<=Nch<180, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_5_2_lowPt
+---
+data_file: figure_9_3_6_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 140<=Nch<160, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_6_0_lowPt
+---
+data_file: figure_9_3_6_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 140<=Nch<160, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_6_1_lowPt
+---
+data_file: figure_9_3_6_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 140<=Nch<160, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_6_2_lowPt
+---
+data_file: figure_9_3_7_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 120<=Nch<140, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_7_0_lowPt
+---
+data_file: figure_9_3_7_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 120<=Nch<140, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_7_1_lowPt
+---
+data_file: figure_9_3_7_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 120<=Nch<140, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_7_2_lowPt
+---
+data_file: figure_9_3_8_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 100<=Nch<120, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_8_0_lowPt
+---
+data_file: figure_9_3_8_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 100<=Nch<120, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_8_1_lowPt
+---
+data_file: figure_9_3_8_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 100<=Nch<120, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_8_2_lowPt
+---
+data_file: figure_9_3_9_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 80<=Nch<100, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_9_0_lowPt
+---
+data_file: figure_9_3_9_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 80<=Nch<100, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_9_1_lowPt
+---
+data_file: figure_9_3_9_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 80<=Nch<100, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_9_2_lowPt
+---
+data_file: figure_9_3_10_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 60<=Nch<80, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_10_0_lowPt
+---
+data_file: figure_9_3_10_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 60<=Nch<80, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_10_1_lowPt
+---
+data_file: figure_9_3_10_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 60<=Nch<80, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_10_2_lowPt
+---
+data_file: figure_9_3_11_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 40<=Nch<60, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_11_0_lowPt
+---
+data_file: figure_9_3_11_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 40<=Nch<60, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_11_1_lowPt
+---
+data_file: figure_9_3_11_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 40<=Nch<60, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_11_2_lowPt
+---
+data_file: figure_9_3_12_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 20<=Nch<40, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_12_0_lowPt
+---
+data_file: figure_9_3_12_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 20<=Nch<40, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_12_1_lowPt
+---
+data_file: figure_9_3_12_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 20<=Nch<40, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_12_2_lowPt
+---
+data_file: figure_9_3_13_0_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 10<=Nch<20, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_13_0_lowPt
+---
+data_file: figure_9_3_13_1_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 10<=Nch<20, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_13_1_lowPt
+---
+data_file: figure_9_3_13_2_lowpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.2GeV, 10<=Nch<20, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_13_2_lowPt
+---
+data_file: figure_9_4_0_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 260<=Nch<300, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0_0_lowPt
+---
+data_file: figure_9_4_0_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 260<=Nch<300, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0_1_lowPt
+---
+data_file: figure_9_4_0_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 260<=Nch<300, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0_2_lowPt
+---
+data_file: figure_9_4_1_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 240<=Nch<260, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1_0_lowPt
+---
+data_file: figure_9_4_1_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 240<=Nch<260, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1_1_lowPt
+---
+data_file: figure_9_4_1_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 240<=Nch<260, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1_2_lowPt
+---
+data_file: figure_9_4_2_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 220<=Nch<240, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2_0_lowPt
+---
+data_file: figure_9_4_2_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 220<=Nch<240, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2_1_lowPt
+---
+data_file: figure_9_4_2_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 220<=Nch<240, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2_2_lowPt
+---
+data_file: figure_9_4_3_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 200<=Nch<220, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_3_0_lowPt
+---
+data_file: figure_9_4_3_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 200<=Nch<220, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_3_1_lowPt
+---
+data_file: figure_9_4_3_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 200<=Nch<220, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_3_2_lowPt
+---
+data_file: figure_9_4_4_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 180<=Nch<200, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_4_0_lowPt
+---
+data_file: figure_9_4_4_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 180<=Nch<200, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_4_1_lowPt
+---
+data_file: figure_9_4_4_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 180<=Nch<200, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_4_2_lowPt
+---
+data_file: figure_9_4_5_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 160<=Nch<180, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_5_0_lowPt
+---
+data_file: figure_9_4_5_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 160<=Nch<180, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_5_1_lowPt
+---
+data_file: figure_9_4_5_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 160<=Nch<180, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_5_2_lowPt
+---
+data_file: figure_9_4_6_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 140<=Nch<160, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_6_0_lowPt
+---
+data_file: figure_9_4_6_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 140<=Nch<160, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_6_1_lowPt
+---
+data_file: figure_9_4_6_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 140<=Nch<160, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_6_2_lowPt
+---
+data_file: figure_9_4_7_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 120<=Nch<140, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_7_0_lowPt
+---
+data_file: figure_9_4_7_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 120<=Nch<140, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_7_1_lowPt
+---
+data_file: figure_9_4_7_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 120<=Nch<140, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_7_2_lowPt
+---
+data_file: figure_9_4_8_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 100<=Nch<120, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_8_0_lowPt
+---
+data_file: figure_9_4_8_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 100<=Nch<120, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_8_1_lowPt
+---
+data_file: figure_9_4_8_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 100<=Nch<120, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_8_2_lowPt
+---
+data_file: figure_9_4_9_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 80<=Nch<100, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_9_0_lowPt
+---
+data_file: figure_9_4_9_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 80<=Nch<100, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_9_1_lowPt
+---
+data_file: figure_9_4_9_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 80<=Nch<100, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_9_2_lowPt
+---
+data_file: figure_9_4_10_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 60<=Nch<80, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_10_0_lowPt
+---
+data_file: figure_9_4_10_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 60<=Nch<80, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_10_1_lowPt
+---
+data_file: figure_9_4_10_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 60<=Nch<80, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_10_2_lowPt
+---
+data_file: figure_9_4_11_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 40<=Nch<60, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_11_0_lowPt
+---
+data_file: figure_9_4_11_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 40<=Nch<60, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_11_1_lowPt
+---
+data_file: figure_9_4_11_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 40<=Nch<60, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_11_2_lowPt
+---
+data_file: figure_9_4_12_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 20<=Nch<40, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_12_0_lowPt
+---
+data_file: figure_9_4_12_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 20<=Nch<40, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_12_1_lowPt
+---
+data_file: figure_9_4_12_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 20<=Nch<40, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_12_2_lowPt
+---
+data_file: figure_9_4_13_0_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 10<=Nch<20, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_13_0_lowPt
+---
+data_file: figure_9_4_13_1_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 10<=Nch<20, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_13_1_lowPt
+---
+data_file: figure_9_4_13_2_lowpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.2GeV, 10<=Nch<20, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_13_2_lowPt
+---
+data_file: figure_9_5_6_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 140<=Nch<160, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_6_0_lowPt
+---
+data_file: figure_9_5_6_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 140<=Nch<160, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_6_1_lowPt
+---
+data_file: figure_9_5_6_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 140<=Nch<160, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_6_2_lowPt
+---
+data_file: figure_9_5_7_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 120<=Nch<140, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_7_0_lowPt
+---
+data_file: figure_9_5_7_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 120<=Nch<140, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_7_1_lowPt
+---
+data_file: figure_9_5_7_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 120<=Nch<140, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_7_2_lowPt
+---
+data_file: figure_9_5_8_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 100<=Nch<120, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_8_0_lowPt
+---
+data_file: figure_9_5_8_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 100<=Nch<120, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_8_1_lowPt
+---
+data_file: figure_9_5_8_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 100<=Nch<120, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_8_2_lowPt
+---
+data_file: figure_9_5_9_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 80<=Nch<100, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_9_0_lowPt
+---
+data_file: figure_9_5_9_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 80<=Nch<100, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_9_1_lowPt
+---
+data_file: figure_9_5_9_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 80<=Nch<100, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_9_2_lowPt
+---
+data_file: figure_9_5_10_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 60<=Nch<80, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_10_0_lowPt
+---
+data_file: figure_9_5_10_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 60<=Nch<80, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_10_1_lowPt
+---
+data_file: figure_9_5_10_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 60<=Nch<80, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_10_2_lowPt
+---
+data_file: figure_9_5_11_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 40<=Nch<60, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_11_0_lowPt
+---
+data_file: figure_9_5_11_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 40<=Nch<60, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_11_1_lowPt
+---
+data_file: figure_9_5_11_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 40<=Nch<60, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_11_2_lowPt
+---
+data_file: figure_9_5_12_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 20<=Nch<40, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_12_0_lowPt
+---
+data_file: figure_9_5_12_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 20<=Nch<40, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_12_1_lowPt
+---
+data_file: figure_9_5_12_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 20<=Nch<40, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_12_2_lowPt
+---
+data_file: figure_9_5_13_0_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 10<=Nch<20, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_13_0_lowPt
+---
+data_file: figure_9_5_13_1_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 10<=Nch<20, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_13_1_lowPt
+---
+data_file: figure_9_5_13_2_lowpt.yaml
+description: <a_n a_m> for pp, pT>0.2GeV, 10<=Nch<20, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_13_2_lowPt
+---
+data_file: figure_9_0_0_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 260<=Nch<300, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_0_0_highPt
+---
+data_file: figure_9_0_0_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 260<=Nch<300, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_0_1_highPt
+---
+data_file: figure_9_0_0_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 260<=Nch<300, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_0_2_highPt
+---
+data_file: figure_9_0_1_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 240<=Nch<260, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_1_0_highPt
+---
+data_file: figure_9_0_1_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 240<=Nch<260, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_1_1_highPt
+---
+data_file: figure_9_0_1_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 240<=Nch<260, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_1_2_highPt
+---
+data_file: figure_9_0_2_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 220<=Nch<240, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_2_0_highPt
+---
+data_file: figure_9_0_2_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 220<=Nch<240, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_2_1_highPt
+---
+data_file: figure_9_0_2_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 220<=Nch<240, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_2_2_highPt
+---
+data_file: figure_9_0_3_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 200<=Nch<220, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_3_0_highPt
+---
+data_file: figure_9_0_3_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 200<=Nch<220, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_3_1_highPt
+---
+data_file: figure_9_0_3_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 200<=Nch<220, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_3_2_highPt
+---
+data_file: figure_9_0_4_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 180<=Nch<200, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_4_0_highPt
+---
+data_file: figure_9_0_4_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 180<=Nch<200, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_4_1_highPt
+---
+data_file: figure_9_0_4_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 180<=Nch<200, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_4_2_highPt
+---
+data_file: figure_9_0_5_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 160<=Nch<180, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_5_0_highPt
+---
+data_file: figure_9_0_5_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 160<=Nch<180, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_5_1_highPt
+---
+data_file: figure_9_0_5_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 160<=Nch<180, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_5_2_highPt
+---
+data_file: figure_9_0_6_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 140<=Nch<160, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_6_0_highPt
+---
+data_file: figure_9_0_6_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 140<=Nch<160, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_6_1_highPt
+---
+data_file: figure_9_0_6_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 140<=Nch<160, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_6_2_highPt
+---
+data_file: figure_9_0_7_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 120<=Nch<140, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_7_0_highPt
+---
+data_file: figure_9_0_7_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 120<=Nch<140, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_7_1_highPt
+---
+data_file: figure_9_0_7_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 120<=Nch<140, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_7_2_highPt
+---
+data_file: figure_9_0_8_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 100<=Nch<120, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_8_0_highPt
+---
+data_file: figure_9_0_8_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 100<=Nch<120, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_8_1_highPt
+---
+data_file: figure_9_0_8_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 100<=Nch<120, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_8_2_highPt
+---
+data_file: figure_9_0_9_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 80<=Nch<100, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_9_0_highPt
+---
+data_file: figure_9_0_9_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 80<=Nch<100, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_9_1_highPt
+---
+data_file: figure_9_0_9_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 80<=Nch<100, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_9_2_highPt
+---
+data_file: figure_9_0_10_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 60<=Nch<80, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_10_0_highPt
+---
+data_file: figure_9_0_10_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 60<=Nch<80, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_10_1_highPt
+---
+data_file: figure_9_0_10_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 60<=Nch<80, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_10_2_highPt
+---
+data_file: figure_9_0_11_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 40<=Nch<60, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_11_0_highPt
+---
+data_file: figure_9_0_11_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 40<=Nch<60, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_11_1_highPt
+---
+data_file: figure_9_0_11_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 40<=Nch<60, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_11_2_highPt
+---
+data_file: figure_9_0_12_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 20<=Nch<40, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_12_0_highPt
+---
+data_file: figure_9_0_12_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 20<=Nch<40, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_12_1_highPt
+---
+data_file: figure_9_0_12_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 20<=Nch<40, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_12_2_highPt
+---
+data_file: figure_9_0_13_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 10<=Nch<20, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_13_0_highPt
+---
+data_file: figure_9_0_13_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 10<=Nch<20, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_13_1_highPt
+---
+data_file: figure_9_0_13_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 10<=Nch<20, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_0_13_2_highPt
+---
+data_file: figure_9_1_0_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 260<=Nch<300, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0_0_highPt
+---
+data_file: figure_9_1_0_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 260<=Nch<300, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0_1_highPt
+---
+data_file: figure_9_1_0_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 260<=Nch<300, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_0_2_highPt
+---
+data_file: figure_9_1_1_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 240<=Nch<260, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1_0_highPt
+---
+data_file: figure_9_1_1_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 240<=Nch<260, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1_1_highPt
+---
+data_file: figure_9_1_1_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 240<=Nch<260, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_1_2_highPt
+---
+data_file: figure_9_1_2_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 220<=Nch<240, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2_0_highPt
+---
+data_file: figure_9_1_2_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 220<=Nch<240, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2_1_highPt
+---
+data_file: figure_9_1_2_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 220<=Nch<240, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_2_2_highPt
+---
+data_file: figure_9_1_3_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 200<=Nch<220, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_3_0_highPt
+---
+data_file: figure_9_1_3_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 200<=Nch<220, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_3_1_highPt
+---
+data_file: figure_9_1_3_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 200<=Nch<220, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_3_2_highPt
+---
+data_file: figure_9_1_4_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 180<=Nch<200, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_4_0_highPt
+---
+data_file: figure_9_1_4_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 180<=Nch<200, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_4_1_highPt
+---
+data_file: figure_9_1_4_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 180<=Nch<200, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_4_2_highPt
+---
+data_file: figure_9_1_5_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 160<=Nch<180, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_5_0_highPt
+---
+data_file: figure_9_1_5_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 160<=Nch<180, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_5_1_highPt
+---
+data_file: figure_9_1_5_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 160<=Nch<180, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_5_2_highPt
+---
+data_file: figure_9_1_6_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 140<=Nch<160, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_6_0_highPt
+---
+data_file: figure_9_1_6_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 140<=Nch<160, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_6_1_highPt
+---
+data_file: figure_9_1_6_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 140<=Nch<160, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_6_2_highPt
+---
+data_file: figure_9_1_7_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 120<=Nch<140, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_7_0_highPt
+---
+data_file: figure_9_1_7_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 120<=Nch<140, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_7_1_highPt
+---
+data_file: figure_9_1_7_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 120<=Nch<140, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_7_2_highPt
+---
+data_file: figure_9_1_8_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 100<=Nch<120, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_8_0_highPt
+---
+data_file: figure_9_1_8_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 100<=Nch<120, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_8_1_highPt
+---
+data_file: figure_9_1_8_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 100<=Nch<120, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_8_2_highPt
+---
+data_file: figure_9_1_9_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 80<=Nch<100, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_9_0_highPt
+---
+data_file: figure_9_1_9_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 80<=Nch<100, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_9_1_highPt
+---
+data_file: figure_9_1_9_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 80<=Nch<100, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_9_2_highPt
+---
+data_file: figure_9_1_10_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 60<=Nch<80, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_10_0_highPt
+---
+data_file: figure_9_1_10_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 60<=Nch<80, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_10_1_highPt
+---
+data_file: figure_9_1_10_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 60<=Nch<80, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_10_2_highPt
+---
+data_file: figure_9_1_11_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 40<=Nch<60, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_11_0_highPt
+---
+data_file: figure_9_1_11_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 40<=Nch<60, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_11_1_highPt
+---
+data_file: figure_9_1_11_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 40<=Nch<60, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_11_2_highPt
+---
+data_file: figure_9_1_12_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 20<=Nch<40, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_12_0_highPt
+---
+data_file: figure_9_1_12_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 20<=Nch<40, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_12_1_highPt
+---
+data_file: figure_9_1_12_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 20<=Nch<40, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_12_2_highPt
+---
+data_file: figure_9_1_13_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 10<=Nch<20, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_13_0_highPt
+---
+data_file: figure_9_1_13_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 10<=Nch<20, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_13_1_highPt
+---
+data_file: figure_9_1_13_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 10<=Nch<20, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_1_13_2_highPt
+---
+data_file: figure_9_2_6_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 140<=Nch<160, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_6_0_highPt
+---
+data_file: figure_9_2_6_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 140<=Nch<160, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_6_1_highPt
+---
+data_file: figure_9_2_6_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 140<=Nch<160, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_6_2_highPt
+---
+data_file: figure_9_2_7_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 120<=Nch<140, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_7_0_highPt
+---
+data_file: figure_9_2_7_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 120<=Nch<140, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_7_1_highPt
+---
+data_file: figure_9_2_7_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 120<=Nch<140, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_7_2_highPt
+---
+data_file: figure_9_2_8_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 100<=Nch<120, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_8_0_highPt
+---
+data_file: figure_9_2_8_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 100<=Nch<120, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_8_1_highPt
+---
+data_file: figure_9_2_8_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 100<=Nch<120, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_8_2_highPt
+---
+data_file: figure_9_2_9_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 80<=Nch<100, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_9_0_highPt
+---
+data_file: figure_9_2_9_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 80<=Nch<100, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_9_1_highPt
+---
+data_file: figure_9_2_9_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 80<=Nch<100, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_9_2_highPt
+---
+data_file: figure_9_2_10_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 60<=Nch<80, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_10_0_highPt
+---
+data_file: figure_9_2_10_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 60<=Nch<80, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_10_1_highPt
+---
+data_file: figure_9_2_10_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 60<=Nch<80, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_10_2_highPt
+---
+data_file: figure_9_2_11_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 40<=Nch<60, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_11_0_highPt
+---
+data_file: figure_9_2_11_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 40<=Nch<60, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_11_1_highPt
+---
+data_file: figure_9_2_11_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 40<=Nch<60, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_11_2_highPt
+---
+data_file: figure_9_2_12_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 20<=Nch<40, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_12_0_highPt
+---
+data_file: figure_9_2_12_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 20<=Nch<40, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_12_1_highPt
+---
+data_file: figure_9_2_12_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 20<=Nch<40, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_12_2_highPt
+---
+data_file: figure_9_2_13_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 10<=Nch<20, w SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_13_0_highPt
+---
+data_file: figure_9_2_13_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 10<=Nch<20, w SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_13_1_highPt
+---
+data_file: figure_9_2_13_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 10<=Nch<20, w SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_2_13_2_highPt
+---
+data_file: figure_9_3_0_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 260<=Nch<300, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0_0_highPt
+---
+data_file: figure_9_3_0_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 260<=Nch<300, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0_1_highPt
+---
+data_file: figure_9_3_0_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 260<=Nch<300, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_0_2_highPt
+---
+data_file: figure_9_3_1_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 240<=Nch<260, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1_0_highPt
+---
+data_file: figure_9_3_1_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 240<=Nch<260, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1_1_highPt
+---
+data_file: figure_9_3_1_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 240<=Nch<260, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_1_2_highPt
+---
+data_file: figure_9_3_2_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 220<=Nch<240, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2_0_highPt
+---
+data_file: figure_9_3_2_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 220<=Nch<240, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2_1_highPt
+---
+data_file: figure_9_3_2_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 220<=Nch<240, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_2_2_highPt
+---
+data_file: figure_9_3_3_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 200<=Nch<220, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_3_0_highPt
+---
+data_file: figure_9_3_3_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 200<=Nch<220, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_3_1_highPt
+---
+data_file: figure_9_3_3_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 200<=Nch<220, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_3_2_highPt
+---
+data_file: figure_9_3_4_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 180<=Nch<200, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_4_0_highPt
+---
+data_file: figure_9_3_4_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 180<=Nch<200, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_4_1_highPt
+---
+data_file: figure_9_3_4_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 180<=Nch<200, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_4_2_highPt
+---
+data_file: figure_9_3_5_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 160<=Nch<180, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_5_0_highPt
+---
+data_file: figure_9_3_5_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 160<=Nch<180, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_5_1_highPt
+---
+data_file: figure_9_3_5_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 160<=Nch<180, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_5_2_highPt
+---
+data_file: figure_9_3_6_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 140<=Nch<160, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_6_0_highPt
+---
+data_file: figure_9_3_6_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 140<=Nch<160, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_6_1_highPt
+---
+data_file: figure_9_3_6_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 140<=Nch<160, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_6_2_highPt
+---
+data_file: figure_9_3_7_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 120<=Nch<140, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_7_0_highPt
+---
+data_file: figure_9_3_7_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 120<=Nch<140, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_7_1_highPt
+---
+data_file: figure_9_3_7_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 120<=Nch<140, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_7_2_highPt
+---
+data_file: figure_9_3_8_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 100<=Nch<120, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_8_0_highPt
+---
+data_file: figure_9_3_8_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 100<=Nch<120, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_8_1_highPt
+---
+data_file: figure_9_3_8_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 100<=Nch<120, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_8_2_highPt
+---
+data_file: figure_9_3_9_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 80<=Nch<100, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_9_0_highPt
+---
+data_file: figure_9_3_9_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 80<=Nch<100, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_9_1_highPt
+---
+data_file: figure_9_3_9_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 80<=Nch<100, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_9_2_highPt
+---
+data_file: figure_9_3_10_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 60<=Nch<80, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_10_0_highPt
+---
+data_file: figure_9_3_10_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 60<=Nch<80, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_10_1_highPt
+---
+data_file: figure_9_3_10_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 60<=Nch<80, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_10_2_highPt
+---
+data_file: figure_9_3_11_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 40<=Nch<60, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_11_0_highPt
+---
+data_file: figure_9_3_11_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 40<=Nch<60, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_11_1_highPt
+---
+data_file: figure_9_3_11_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 40<=Nch<60, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_11_2_highPt
+---
+data_file: figure_9_3_12_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 20<=Nch<40, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_12_0_highPt
+---
+data_file: figure_9_3_12_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 20<=Nch<40, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_12_1_highPt
+---
+data_file: figure_9_3_12_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 20<=Nch<40, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_12_2_highPt
+---
+data_file: figure_9_3_13_0_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 10<=Nch<20, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_13_0_highPt
+---
+data_file: figure_9_3_13_1_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 10<=Nch<20, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_13_1_highPt
+---
+data_file: figure_9_3_13_2_highpt.yaml
+description: <a_n a_m> for Pb+Pb, pT>0.5GeV, 10<=Nch<20, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_3_13_2_highPt
+---
+data_file: figure_9_4_0_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 260<=Nch<300, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0_0_highPt
+---
+data_file: figure_9_4_0_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 260<=Nch<300, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0_1_highPt
+---
+data_file: figure_9_4_0_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 260<=Nch<300, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_0_2_highPt
+---
+data_file: figure_9_4_1_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 240<=Nch<260, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1_0_highPt
+---
+data_file: figure_9_4_1_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 240<=Nch<260, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1_1_highPt
+---
+data_file: figure_9_4_1_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 240<=Nch<260, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_1_2_highPt
+---
+data_file: figure_9_4_2_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 220<=Nch<240, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2_0_highPt
+---
+data_file: figure_9_4_2_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 220<=Nch<240, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2_1_highPt
+---
+data_file: figure_9_4_2_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 220<=Nch<240, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_2_2_highPt
+---
+data_file: figure_9_4_3_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 200<=Nch<220, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_3_0_highPt
+---
+data_file: figure_9_4_3_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 200<=Nch<220, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_3_1_highPt
+---
+data_file: figure_9_4_3_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 200<=Nch<220, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_3_2_highPt
+---
+data_file: figure_9_4_4_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 180<=Nch<200, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_4_0_highPt
+---
+data_file: figure_9_4_4_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 180<=Nch<200, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_4_1_highPt
+---
+data_file: figure_9_4_4_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 180<=Nch<200, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_4_2_highPt
+---
+data_file: figure_9_4_5_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 160<=Nch<180, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_5_0_highPt
+---
+data_file: figure_9_4_5_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 160<=Nch<180, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_5_1_highPt
+---
+data_file: figure_9_4_5_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 160<=Nch<180, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_5_2_highPt
+---
+data_file: figure_9_4_6_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 140<=Nch<160, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_6_0_highPt
+---
+data_file: figure_9_4_6_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 140<=Nch<160, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_6_1_highPt
+---
+data_file: figure_9_4_6_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 140<=Nch<160, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_6_2_highPt
+---
+data_file: figure_9_4_7_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 120<=Nch<140, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_7_0_highPt
+---
+data_file: figure_9_4_7_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 120<=Nch<140, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_7_1_highPt
+---
+data_file: figure_9_4_7_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 120<=Nch<140, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_7_2_highPt
+---
+data_file: figure_9_4_8_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 100<=Nch<120, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_8_0_highPt
+---
+data_file: figure_9_4_8_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 100<=Nch<120, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_8_1_highPt
+---
+data_file: figure_9_4_8_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 100<=Nch<120, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_8_2_highPt
+---
+data_file: figure_9_4_9_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 80<=Nch<100, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_9_0_highPt
+---
+data_file: figure_9_4_9_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 80<=Nch<100, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_9_1_highPt
+---
+data_file: figure_9_4_9_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 80<=Nch<100, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_9_2_highPt
+---
+data_file: figure_9_4_10_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 60<=Nch<80, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_10_0_highPt
+---
+data_file: figure_9_4_10_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 60<=Nch<80, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_10_1_highPt
+---
+data_file: figure_9_4_10_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 60<=Nch<80, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_10_2_highPt
+---
+data_file: figure_9_4_11_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 40<=Nch<60, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_11_0_highPt
+---
+data_file: figure_9_4_11_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 40<=Nch<60, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_11_1_highPt
+---
+data_file: figure_9_4_11_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 40<=Nch<60, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_11_2_highPt
+---
+data_file: figure_9_4_12_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 20<=Nch<40, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_12_0_highPt
+---
+data_file: figure_9_4_12_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 20<=Nch<40, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_12_1_highPt
+---
+data_file: figure_9_4_12_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 20<=Nch<40, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_12_2_highPt
+---
+data_file: figure_9_4_13_0_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 10<=Nch<20, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_13_0_highPt
+---
+data_file: figure_9_4_13_1_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 10<=Nch<20, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_13_1_highPt
+---
+data_file: figure_9_4_13_2_highpt.yaml
+description: <a_n a_m> for p+Pb, pT>0.5GeV, 10<=Nch<20, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_4_13_2_highPt
+---
+data_file: figure_9_5_6_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 140<=Nch<160, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_6_0_highPt
+---
+data_file: figure_9_5_6_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 140<=Nch<160, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_6_1_highPt
+---
+data_file: figure_9_5_6_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 140<=Nch<160, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_6_2_highPt
+---
+data_file: figure_9_5_7_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 120<=Nch<140, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_7_0_highPt
+---
+data_file: figure_9_5_7_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 120<=Nch<140, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_7_1_highPt
+---
+data_file: figure_9_5_7_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 120<=Nch<140, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_7_2_highPt
+---
+data_file: figure_9_5_8_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 100<=Nch<120, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_8_0_highPt
+---
+data_file: figure_9_5_8_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 100<=Nch<120, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_8_1_highPt
+---
+data_file: figure_9_5_8_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 100<=Nch<120, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_8_2_highPt
+---
+data_file: figure_9_5_9_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 80<=Nch<100, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_9_0_highPt
+---
+data_file: figure_9_5_9_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 80<=Nch<100, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_9_1_highPt
+---
+data_file: figure_9_5_9_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 80<=Nch<100, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_9_2_highPt
+---
+data_file: figure_9_5_10_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 60<=Nch<80, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_10_0_highPt
+---
+data_file: figure_9_5_10_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 60<=Nch<80, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_10_1_highPt
+---
+data_file: figure_9_5_10_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 60<=Nch<80, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_10_2_highPt
+---
+data_file: figure_9_5_11_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 40<=Nch<60, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_11_0_highPt
+---
+data_file: figure_9_5_11_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 40<=Nch<60, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_11_1_highPt
+---
+data_file: figure_9_5_11_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 40<=Nch<60, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_11_2_highPt
+---
+data_file: figure_9_5_12_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 20<=Nch<40, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_12_0_highPt
+---
+data_file: figure_9_5_12_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 20<=Nch<40, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_12_1_highPt
+---
+data_file: figure_9_5_12_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 20<=Nch<40, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_12_2_highPt
+---
+data_file: figure_9_5_13_0_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 10<=Nch<20, wo SRC, opposite pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_13_0_highPt
+---
+data_file: figure_9_5_13_1_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 10<=Nch<20, wo SRC, same pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_13_1_highPt
+---
+data_file: figure_9_5_13_2_highpt.yaml
+description: <a_n a_m> for pp, pT>0.5GeV, 10<=Nch<20, wo SRC, all pairs
+keywords: []
+location: Page 12
+name: Figure_9_5_13_2_highPt
+---
+data_file: figure_13_0_0_lowpt.yaml
+description: a1 from fit C_N^sub(eta-) for Pb+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_0_lowPt
+---
+data_file: figure_13_0_1_lowpt.yaml
+description: a1 from fit C_N^sub(eta+) for Pb+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_1_lowPt
+---
+data_file: figure_13_0_2_lowpt.yaml
+description: a1 from fit r_N^sub(eta) for Pb+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_2_lowPt
+---
+data_file: figure_13_0_3_lowpt.yaml
+description: a1 from fit C_N^sub(eta1, eta2) for Pb+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_3_lowPt
+---
+data_file: figure_13_1_0_lowpt.yaml
+description: a1 from fit C_N^sub(eta-) for p+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_0_lowPt
+---
+data_file: figure_13_1_1_lowpt.yaml
+description: a1 from fit C_N^sub(eta+) for p+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_1_lowPt
+---
+data_file: figure_13_1_2_lowpt.yaml
+description: a1 from fit r_N^sub(eta) for p+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_2_lowPt
+---
+data_file: figure_13_1_3_lowpt.yaml
+description: a1 from fit C_N^sub(eta1, eta2) for p+Pb, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_3_lowPt
+---
+data_file: figure_13_2_0_lowpt.yaml
+description: a1 from fit C_N^sub(eta-) for pp, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_0_lowPt
+---
+data_file: figure_13_2_1_lowpt.yaml
+description: a1 from fit C_N^sub(eta+) for pp, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_1_lowPt
+---
+data_file: figure_13_2_2_lowpt.yaml
+description: a1 from fit r_N^sub(eta) for pp, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_2_lowPt
+---
+data_file: figure_13_2_3_lowpt.yaml
+description: a1 from fit C_N^sub(eta1, eta2) for pp, pT>0.2GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_3_lowPt
+---
+data_file: figure_13_0_0_highpt.yaml
+description: a1 from fit C_N^sub(eta-) for Pb+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_0_highPt
+---
+data_file: figure_13_0_1_highpt.yaml
+description: a1 from fit C_N^sub(eta+) for Pb+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_1_highPt
+---
+data_file: figure_13_0_2_highpt.yaml
+description: a1 from fit r_N^sub(eta) for Pb+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_2_highPt
+---
+data_file: figure_13_0_3_highpt.yaml
+description: a1 from fit C_N^sub(eta1, eta2) for Pb+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_0_3_highPt
+---
+data_file: figure_13_1_0_highpt.yaml
+description: a1 from fit C_N^sub(eta-) for p+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_0_highPt
+---
+data_file: figure_13_1_1_highpt.yaml
+description: a1 from fit C_N^sub(eta+) for p+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_1_highPt
+---
+data_file: figure_13_1_2_highpt.yaml
+description: a1 from fit r_N^sub(eta) for p+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_2_highPt
+---
+data_file: figure_13_1_3_highpt.yaml
+description: a1 from fit C_N^sub(eta1, eta2) for p+Pb, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_1_3_highPt
+---
+data_file: figure_13_2_0_highpt.yaml
+description: a1 from fit C_N^sub(eta-) for pp, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_0_highPt
+---
+data_file: figure_13_2_1_highpt.yaml
+description: a1 from fit C_N^sub(eta+) for pp, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_1_highPt
+---
+data_file: figure_13_2_2_highpt.yaml
+description: a1 from fit r_N^sub(eta) for pp, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_2_highPt
+---
+data_file: figure_13_2_3_highpt.yaml
+description: a1 from fit C_N^sub(eta1, eta2) for pp, pT>0.5GeV
+keywords: []
+location: Page 14
+name: Figure_13_2_3_highPt
+---
+data_file: figure_14_0_0_lowpt.yaml
+description: SRC for Pb+Pb, pT>0.2GeV, all pairs
 keywords: []
 location: Page 15
-name: Figure_14_0_0
+name: Figure_14_0_0_lowPt
 ---
-data_file: figure_14_0_1.yaml
-description: SRC for Pb+Pb, opposite pairs
+data_file: figure_14_0_1_lowpt.yaml
+description: SRC for Pb+Pb, pT>0.2GeV, opposite pairs
 keywords: []
 location: Page 15
-name: Figure_14_0_1
+name: Figure_14_0_1_lowPt
 ---
-data_file: figure_14_0_2.yaml
-description: SRC for Pb+Pb, same pairs
+data_file: figure_14_0_2_lowpt.yaml
+description: SRC for Pb+Pb, pT>0.2GeV, same pairs
 keywords: []
 location: Page 15
-name: Figure_14_0_2
+name: Figure_14_0_2_lowPt
 ---
-data_file: figure_14_1_0.yaml
-description: SRC for p+Pb, all pairs
+data_file: figure_14_1_0_lowpt.yaml
+description: SRC for p+Pb, pT>0.2GeV, all pairs
 keywords: []
 location: Page 15
-name: Figure_14_1_0
+name: Figure_14_1_0_lowPt
 ---
-data_file: figure_14_1_1.yaml
-description: SRC for p+Pb, opposite pairs
+data_file: figure_14_1_1_lowpt.yaml
+description: SRC for p+Pb, pT>0.2GeV, opposite pairs
 keywords: []
 location: Page 15
-name: Figure_14_1_1
+name: Figure_14_1_1_lowPt
 ---
-data_file: figure_14_1_2.yaml
-description: SRC for p+Pb, same pairs
+data_file: figure_14_1_2_lowpt.yaml
+description: SRC for p+Pb, pT>0.2GeV, same pairs
 keywords: []
 location: Page 15
-name: Figure_14_1_2
+name: Figure_14_1_2_lowPt
 ---
-data_file: figure_14_2_0.yaml
-description: SRC for pp, all pairs
+data_file: figure_14_2_0_lowpt.yaml
+description: SRC for pp, pT>0.2GeV, all pairs
 keywords: []
 location: Page 15
-name: Figure_14_2_0
+name: Figure_14_2_0_lowPt
 ---
-data_file: figure_14_2_1.yaml
-description: SRC for pp, opposite pairs
+data_file: figure_14_2_1_lowpt.yaml
+description: SRC for pp, pT>0.2GeV, opposite pairs
 keywords: []
 location: Page 15
-name: Figure_14_2_1
+name: Figure_14_2_1_lowPt
 ---
-data_file: figure_14_2_2.yaml
-description: SRC for pp, same pairs
+data_file: figure_14_2_2_lowpt.yaml
+description: SRC for pp, pT>0.2GeV, same pairs
 keywords: []
 location: Page 15
-name: Figure_14_2_2
+name: Figure_14_2_2_lowPt
 ---
-data_file: figure_15_0_0.yaml
-description: SRC for Pb+Pb
+data_file: figure_14_0_0_highpt.yaml
+description: SRC for Pb+Pb, pT>0.5GeV, all pairs
 keywords: []
 location: Page 15
-name: Figure_15_0_0
+name: Figure_14_0_0_highPt
 ---
-data_file: figure_15_0_1.yaml
-description: SRC for p+Pb
+data_file: figure_14_0_1_highpt.yaml
+description: SRC for Pb+Pb, pT>0.5GeV, opposite pairs
 keywords: []
 location: Page 15
-name: Figure_15_0_1
+name: Figure_14_0_1_highPt
 ---
-data_file: figure_15_0_2.yaml
-description: SRC for pp
+data_file: figure_14_0_2_highpt.yaml
+description: SRC for Pb+Pb, pT>0.5GeV, same pairs
 keywords: []
 location: Page 15
-name: Figure_15_0_2
+name: Figure_14_0_2_highPt
 ---
-data_file: figure_15_1_0.yaml
-description: a1 for Pb+Pb
+data_file: figure_14_1_0_highpt.yaml
+description: SRC for p+Pb, pT>0.5GeV, all pairs
 keywords: []
 location: Page 15
-name: Figure_15_1_0
+name: Figure_14_1_0_highPt
 ---
-data_file: figure_15_1_1.yaml
-description: a1 for p+Pb
+data_file: figure_14_1_1_highpt.yaml
+description: SRC for p+Pb, pT>0.5GeV, opposite pairs
 keywords: []
 location: Page 15
-name: Figure_15_1_1
+name: Figure_14_1_1_highPt
 ---
-data_file: figure_15_1_2.yaml
-description: a1 for pp
+data_file: figure_14_1_2_highpt.yaml
+description: SRC for p+Pb, pT>0.5GeV, same pairs
 keywords: []
 location: Page 15
-name: Figure_15_1_2
+name: Figure_14_1_2_highPt
+---
+data_file: figure_14_2_0_highpt.yaml
+description: SRC for pp, pT>0.5GeV, all pairs
+keywords: []
+location: Page 15
+name: Figure_14_2_0_highPt
+---
+data_file: figure_14_2_1_highpt.yaml
+description: SRC for pp, pT>0.5GeV, opposite pairs
+keywords: []
+location: Page 15
+name: Figure_14_2_1_highPt
+---
+data_file: figure_14_2_2_highpt.yaml
+description: SRC for pp, pT>0.5GeV, same pairs
+keywords: []
+location: Page 15
+name: Figure_14_2_2_highPt
+---
+data_file: figure_15_0_0_lowpt.yaml
+description: SRC for Pb+Pb, pT>0.2GeV
+keywords: []
+location: Page 15
+name: Figure_15_0_0_lowPt
+---
+data_file: figure_15_0_1_lowpt.yaml
+description: SRC for p+Pb, pT>0.2GeV
+keywords: []
+location: Page 15
+name: Figure_15_0_1_lowPt
+---
+data_file: figure_15_0_2_lowpt.yaml
+description: SRC for pp, pT>0.2GeV
+keywords: []
+location: Page 15
+name: Figure_15_0_2_lowPt
+---
+data_file: figure_15_1_0_lowpt.yaml
+description: a1 for Pb+Pb, pT>0.2GeV
+keywords: []
+location: Page 15
+name: Figure_15_1_0_lowPt
+---
+data_file: figure_15_1_1_lowpt.yaml
+description: a1 for p+Pb, pT>0.2GeV
+keywords: []
+location: Page 15
+name: Figure_15_1_1_lowPt
+---
+data_file: figure_15_1_2_lowpt.yaml
+description: a1 for pp, pT>0.2GeV
+keywords: []
+location: Page 15
+name: Figure_15_1_2_lowPt
+---
+data_file: figure_15_0_0_highpt.yaml
+description: SRC for Pb+Pb, pT>0.5GeV
+keywords: []
+location: Page 15
+name: Figure_15_0_0_highPt
+---
+data_file: figure_15_0_1_highpt.yaml
+description: SRC for p+Pb, pT>0.5GeV
+keywords: []
+location: Page 15
+name: Figure_15_0_1_highPt
+---
+data_file: figure_15_0_2_highpt.yaml
+description: SRC for pp, pT>0.5GeV
+keywords: []
+location: Page 15
+name: Figure_15_0_2_highPt
+---
+data_file: figure_15_1_0_highpt.yaml
+description: a1 for Pb+Pb, pT>0.5GeV
+keywords: []
+location: Page 15
+name: Figure_15_1_0_highPt
+---
+data_file: figure_15_1_1_highpt.yaml
+description: a1 for p+Pb, pT>0.5GeV
+keywords: []
+location: Page 15
+name: Figure_15_1_1_highPt
+---
+data_file: figure_15_1_2_highpt.yaml
+description: a1 for pp, pT>0.5GeV
+keywords: []
+location: Page 15
+name: Figure_15_1_2_highPt
 ---
 data_file: figure_16_0.yaml
 description: f(eta+) for p+Pb
